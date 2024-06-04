@@ -11,6 +11,7 @@ La tercera sección es la del perfil. En este lugar, el usuario podrá ver el ta
 
 La última sección es la tienda, donde se ofrecen diferentes productos relacionados con la aplicación que podrían interesar al usuario.
 
+[Muestra de la aplicación](https://drive.google.com/file/d/18Rq3rLU8duheRXYz-WxfBWDuLEk10_-u/view?usp=sharing)
 
 -------------------------------------------------------------------------------------------------
 
@@ -25,3 +26,5 @@ The second section focuses on the creation of affirmations. First, there is a se
 The third section is the profile section. In this place, the user will be able to see the diagnostic board, all the affirmations with their recording and all the audio packs he/she has created.
 
 The last section is the store, where different products related to the application that might interest the user are offered.
+
+[App Display](https://drive.google.com/file/d/18Rq3rLU8duheRXYz-WxfBWDuLEk10_-u/view?usp=sharing)
