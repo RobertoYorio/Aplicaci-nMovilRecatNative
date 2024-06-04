@@ -1,4 +1,6 @@
-# AplicacionMovilRecatNative
+# AplicacionMovilReactNative
+[Muestra de la aplicación](https://drive.google.com/file/d/18Rq3rLU8duheRXYz-WxfBWDuLEk10_-u/view?usp=sharing)
+
 Este proyecto se basa en crear una aplicación móvil en React Native para facilitar la creación de afirmaciones y su uso. Una afirmación es una idea cuyo objetivo es generar una creencia o emoción. El proyecto se ha desarrollado en colaboración con Guillermo Yorio.
 
 La aplicación está compuesta por cuatro secciones:
@@ -11,9 +13,9 @@ La tercera sección es la del perfil. En este lugar, el usuario podrá ver el ta
 
 La última sección es la tienda, donde se ofrecen diferentes productos relacionados con la aplicación que podrían interesar al usuario.
 
-[Muestra de la aplicación](https://drive.google.com/file/d/18Rq3rLU8duheRXYz-WxfBWDuLEk10_-u/view?usp=sharing)
-
 -------------------------------------------------------------------------------------------------
+
+[App Display](https://drive.google.com/file/d/18Rq3rLU8duheRXYz-WxfBWDuLEk10_-u/view?usp=sharing)
 
 This project is based on creating a mobile application in React Native to facilitate the creation of affirmations and their use. An affirmation is an idea whose objective is to generate a belief or emotion. The project has been developed in collaboration with Guillermo Yorio.
 
@@ -26,5 +28,3 @@ The second section focuses on the creation of affirmations. First, there is a se
 The third section is the profile section. In this place, the user will be able to see the diagnostic board, all the affirmations with their recording and all the audio packs he/she has created.
 
 The last section is the store, where different products related to the application that might interest the user are offered.
-
-[App Display](https://drive.google.com/file/d/18Rq3rLU8duheRXYz-WxfBWDuLEk10_-u/view?usp=sharing)
