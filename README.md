@@ -1,4 +1,5 @@
 # AplicacionMovilReactNative
+![Readme Image](https://github.com/RobertoYorio/AplicacionMovilReactNative/blob/main/Readme%20Image.PNG)
 [Muestra de la aplicación](https://drive.google.com/file/d/18Rq3rLU8duheRXYz-WxfBWDuLEk10_-u/view?usp=sharing)
 
 Este proyecto se basa en crear una aplicación móvil en React Native para facilitar la creación de afirmaciones y su uso. Una afirmación es una idea cuyo objetivo es generar una creencia o emoción. El proyecto se ha desarrollado en colaboración con Guillermo Yorio.
